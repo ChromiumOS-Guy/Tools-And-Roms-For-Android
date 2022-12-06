@@ -1,5 +1,5 @@
 # for A/B devices:
-DSU sideloader to install GSI more painless then other methods you can extract your super.img and unpack it and then pack it again but this is easer
+DSU sideloader to install GSI more painless then other methods like unpacking super.img and then pack it again with custom system.img but this is easer and safer
 # for A devices:
 DSU sideloader is not for you don't use it
 
