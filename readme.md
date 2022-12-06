@@ -29,4 +29,5 @@ GSI List (https://magiskzip.com/gsi-list-phhusson/)
 
 # Frimware:
 (https://www.gsmmafia.com/)
+
 (https://galaxyfirmware.com/)
