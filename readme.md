@@ -2,6 +2,7 @@
 DSU sideloader to install GSI more painless then othe methods you can extract your super.img and unpack it and then pack it again but this is easer
 # for A devices:
 DSU sideloader is not for you don't use it
+also you can install an custom recovery please do it
 
 # links:
 # instrctions:
@@ -12,6 +13,10 @@ DSU Sideloader (https://www.xda-developers.com/dsu-sideloader-boot-custom-androi
 Phone has no system partition (https://forum.xda-developers.com/t/apparently-my-phone-has-no-system-partition.4435045/)
 
 understanding A/B (https://forum.xda-developers.com/t/help-understanding-a-b-partitions.3748003/)
+# Custom Recovery:
+OrangeFox Recovery Project (https://orangefox.download/)
+
+TeamWin Recovery Project (https://twrp.me/)
 # GSIs (Generic system image):
 Google GSI (https://developer.android.com/topic/generic-system-image/releases)
 
