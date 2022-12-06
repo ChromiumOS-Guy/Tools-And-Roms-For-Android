@@ -27,7 +27,7 @@ lineageOS GSI (https://sourceforge.net/projects/andyyan-gsi/files/)
 
 GSI List (https://magiskzip.com/gsi-list-phhusson/)
 
-# Frimware:
+# Frimware sources:
 (https://www.gsmmafia.com/)
 
 (https://galaxyfirmware.com/)
