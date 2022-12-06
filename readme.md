@@ -7,7 +7,7 @@ DSU sideloader is not for you don't use it
 # instrctions:
 how to unpack super.img (https://forum.xda-developers.com/t/editing-system-img-inside-super-img-and-flashing-our-modifications.4196625/)
 DSU Sideloader (https://www.xda-developers.com/dsu-sideloader-boot-custom-android-gsi/?_ga=2.174717666.1315745851.1670264544-269206565.1669649398)
-# Helpfu:
+# Helpful:
 Phone has no system partition (https://forum.xda-developers.com/t/apparently-my-phone-has-no-system-partition.4435045/)
 understanding A/B (https://forum.xda-developers.com/t/help-understanding-a-b-partitions.3748003/)
 # GSIs (Generic system image):
