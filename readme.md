@@ -11,13 +11,15 @@ also you can install an custom recovery please do it
 
 # links:
 # instrctions:
-how to unpack super.img (https://forum.xda-developers.com/t/editing-system-img-inside-super-img-and-flashing-our-modifications.4196625/)
+#how to unpack super.img:
+(https://forum.xda-developers.com/t/editing-system-img-inside-super-img-and-flashing-our-modifications.4196625/)
 
 (https://source.android.com/docs/core/ota/dynamic_partitions)
 
 (https://blog.senyuuri.info/posts/2022-04-27-patching-android-super-images/)
 
-DSU Sideloader (https://www.xda-developers.com/dsu-sideloader-boot-custom-android-gsi/?_ga=2.174717666.1315745851.1670264544-269206565.1669649398)
+#DSU Sideloader:
+(https://www.xda-developers.com/dsu-sideloader-boot-custom-android-gsi/?_ga=2.174717666.1315745851.1670264544-269206565.1669649398)
 # Helpful:
 Phone has no system partition (https://forum.xda-developers.com/t/apparently-my-phone-has-no-system-partition.4435045/)
 
