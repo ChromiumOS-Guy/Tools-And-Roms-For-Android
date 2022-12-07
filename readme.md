@@ -41,3 +41,6 @@ GSI List (https://magiskzip.com/gsi-list-phhusson/)
 (https://www.gsmmafia.com/)
 
 (https://galaxyfirmware.com/)
+
+# Tools:
+(https://github.com/Dargons10/lpunpack_and_lpmake)
