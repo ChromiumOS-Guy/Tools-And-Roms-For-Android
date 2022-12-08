@@ -42,8 +42,7 @@ GSI List (https://magiskzip.com/gsi-list-phhusson/)
 
 (https://galaxyfirmware.com/)
 
-# Tools:
+### Tools:
+SuperPatcherGSI python script (https://github.com/ChromiumOS-Guy/SuperPatcherGSI)
+
 lpmake source (https://github.com/Dargons10/lpunpack_and_lpmake)
-
-lpmake precompiled for windows (https://github.com/affggh/lpmake_and_lpunpack_cygwin)
-
