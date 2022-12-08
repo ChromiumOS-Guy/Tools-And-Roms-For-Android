@@ -1,5 +1,5 @@
 # for A/B devices:
-use my script (https://github.com/ChromiumOS-Guy/Tools-And-Roms-For-Android/blob/main/readme.md#tools)
+use my script (https://github.com/ChromiumOS-Guy/SuperPatcherGSI)
 
 DSU Sideloader to install GSI more painless then other methods like unpacking super.img and then pack it again with custom system.img but this is easer and safer
 
