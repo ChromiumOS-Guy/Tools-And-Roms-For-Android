@@ -38,6 +38,8 @@ Ubuntu Touch GSI (https://forum.xda-developers.com/t/gsi-arm64-a-ab-ubuntu-touch
 lineageOS GSI (https://sourceforge.net/projects/andyyan-gsi/files/)
 
 GSI List (https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list)
+# How to know if a GSI is A-only or A/B compatable:
+explanation - (https://forum.xda-developers.com/t/what-are-a-only-gsis-used-for-and-why-dont-we-just-call-these-non-sar.4369919/)
 
 # Frimware sources:
 (https://www.gsmmafia.com/)
