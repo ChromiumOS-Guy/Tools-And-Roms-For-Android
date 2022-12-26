@@ -37,7 +37,7 @@ Ubuntu Touch GSI (https://forum.xda-developers.com/t/gsi-arm64-a-ab-ubuntu-touch
 
 lineageOS GSI (https://sourceforge.net/projects/andyyan-gsi/files/)
 
-GSI List (https://magiskzip.com/gsi-list-phhusson/)
+GSI List (https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-list)
 
 # Frimware sources:
 (https://www.gsmmafia.com/)
