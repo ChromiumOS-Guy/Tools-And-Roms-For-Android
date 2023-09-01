@@ -49,4 +49,6 @@ explanation - (https://forum.xda-developers.com/t/what-are-a-only-gsis-used-for-
 ### Tools:
 SuperPatcherGSI python script (https://github.com/ChromiumOS-Guy/SuperPatcherGSI)
 
+Android-Debloater [NO ROOT] (https://github.com/ChromiumOS-Guy/Android-Debloater)
+
 lpmake source (https://github.com/Dargons10/lpunpack_and_lpmake)
